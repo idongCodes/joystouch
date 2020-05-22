@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joystouch/static/css/main.d1b05096.chunk.css",
+    "main.js": "/joystouch/static/js/main.9b18219a.chunk.js",
+    "main.js.map": "/joystouch/static/js/main.9b18219a.chunk.js.map",
+    "runtime-main.js": "/joystouch/static/js/runtime-main.5cc86313.js",
+    "runtime-main.js.map": "/joystouch/static/js/runtime-main.5cc86313.js.map",
+    "static/js/2.1a4367d8.chunk.js": "/joystouch/static/js/2.1a4367d8.chunk.js",
+    "static/js/2.1a4367d8.chunk.js.map": "/joystouch/static/js/2.1a4367d8.chunk.js.map",
+    "index.html": "/joystouch/index.html",
+    "precache-manifest.cc6d296674cf11951ae3fe8674d021fb.js": "/joystouch/precache-manifest.cc6d296674cf11951ae3fe8674d021fb.js",
+    "service-worker.js": "/joystouch/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/joystouch/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.1a4367d8.chunk.js.LICENSE.txt": "/joystouch/static/js/2.1a4367d8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/joystouch/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cc86313.js",
+    "static/js/2.1a4367d8.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9b18219a.chunk.js"
+  ]
+}
